@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Aךעם" company="" webLink="http://" view-date="2015-02-22" view-index="0" gantt-divider-location="353" resource-divider-location="300" version="2.7" locale="iw_IL">
+<?xml version="1.0" encoding="UTF-8"?><project name="Aךעם" company="" webLink="http://" view-date="2015-02-22" view-index="0" gantt-divider-location="353" resource-divider-location="300" version="2.7" locale="en_US">
     <description/>
-    <view zooming-state="default:7" id="gantt-chart">
+    <view zooming-state="default:3" id="gantt-chart">
         <field id="tpd3" name="Name" width="38" order="0"/>
-        <field id="tpd4" name="Begin date" width="30" order="1"/>
+        <field id="tpd4" name="Begin date" width="31" order="1"/>
         <field id="tpd5" name="End date" width="30" order="2"/>
         <option id="color.recent"><![CDATA[#000000 #000000 #000000 #000000 #000000 #cc0000 #00ff00 #3300cc #3300cc #ffff00]]></option>
     </view>
     <view id="resource-table">
-        <field id="0" name="Name" width="51" order="0"/>
-        <field id="1" name="Default role" width="48" order="1"/>
+        <field id="0" name="Name" width="50" order="0"/>
+        <field id="1" name="Default role" width="49" order="1"/>
     </view>
     <!-- -->
     <calendars>
@@ -159,7 +159,7 @@
 - make a report that summarize all testing period ( demo+real) 
 - make a graph that show expecting growth in the acount]]></notes>
         </task>
-        <task id="157" name="task_157" meeting="false" start="2015-05-10" duration="1" complete="0" expand="true"/>
+        <task id="157" name="bla bla" color="#8cb6ce" meeting="false" start="2015-05-10" duration="1" complete="0" expand="true"/>
         <task id="158" name="task_158" meeting="false" start="2015-05-10" duration="1" complete="0" expand="true"/>
         <task id="159" name="task_159" meeting="false" start="2015-05-10" duration="1" complete="0" expand="true"/>
         <task id="160" name="task_160" meeting="false" start="2015-05-10" duration="1" complete="0" expand="true"/>
@@ -349,9 +349,9 @@
         <displaycolumn property-id="tpd9" order="-1" width="75" visible="false"/>
         <displaycolumn property-id="tpd1" order="-1" width="75" visible="false"/>
         <displaycolumn property-id="tpd0" order="-1" width="75" visible="false"/>
-        <displaycolumn property-id="tpd3" order="0" width="589" visible="true"/>
-        <displaycolumn property-id="tpd4" order="1" width="471" visible="true"/>
-        <displaycolumn property-id="tpd5" order="2" width="470" visible="true"/>
+        <displaycolumn property-id="tpd3" order="0" width="127" visible="true"/>
+        <displaycolumn property-id="tpd4" order="1" width="104" visible="true"/>
+        <displaycolumn property-id="tpd5" order="2" width="103" visible="true"/>
     </taskdisplaycolumns>
     <previous/>
     <roles roleset-name="Default"/>
